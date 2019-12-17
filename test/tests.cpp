@@ -65,3 +65,5 @@ TEST(calc,pool_cost)
 {    
     EXPECT_DOUBLE_EQ(72254.5,calcCost());
 }
+
+//waiting for travis (1)
